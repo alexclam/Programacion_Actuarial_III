@@ -1,0 +1,39 @@
+---
+title: "Lista de Materias"
+author: "Arcos Villegas Alejandro"
+date: "4 de febrero de 2017"
+output: html_document
+---
+## Kardex
+
+### Primer Semestre
+
+Curso                                 | Calificaciòn
+--------------------------------------|--------------
+Programaciòn Actuarial I              |     9
+Introducciòn a la Profesion Actuarial |     10
+DHPC                                  |     8
+Conceptos de Càlculo                  |     8
+Matematicas Bàsicas                   |     6
+Problemas de Matematicas Basicas      |     6
+  
+### Segundo Semester
+
+Curso                                 | Calificaciòn
+--------------------------------------|--------------
+Programaciòn Actuarial                |     6
+Teorìa del Interès I                  |     8  
+Microeconomìa                         |     9
+Teoria de Ecuaciones                  |     9
+  
+### Tercer Semestre
+
+Curso                                 | Calificaciòn
+--------------------------------------|--------------
+Teorìa del Interès II                 |     8
+Macroeconomìa                         |     10
+Formaciòn Humana y Social             |     9
+Lengua Extranjera I                   |     10
+Càlculo Diferencial                   |     10
+
+---
